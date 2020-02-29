@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  
+}
+.wrapper{
+  width:75%;
+  margin:0 auto;
+}
+.notice{
+  margin-top:50px;
+}
+.testview{
+  border:1px solid #919191;
+  width: 60%;
+  margin:20px auto;
+}
